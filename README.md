@@ -1,2 +1,2 @@
 # fibonacci_nth_number
-# Finds out the nth number in Fibonacci series 
+ Finds out the nth number in Fibonacci series 
